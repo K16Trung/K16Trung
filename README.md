@@ -1,4 +1,4 @@
-##👋 Hi, I'm Trung!
+## 👋 Hi, I'm Trung!
 
 🎓 I'm a student passionate about software development.  
 💻 I love working with C# and Java.  
