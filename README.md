@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Trung!
 
 🎓 I'm a student passionate about software development.  
-💻 I love working with C# and Java.  
+💻 I love working with C#, React and NODE JS
 🌱 Currently learning Web Development.
 
 ## 🌐 Socials:
